@@ -7,7 +7,9 @@ you can grab the bookmarklet from **[THIS](http://atzorvas.github.io/udemy_times
 ### Screenshots
 
 #### Before
-![ScreenShot before](screenshots/before.png?raw=true)
+![ScreenShot main_before](screenshots/main_course_before.png?raw=true)
+![ScreenShot lesson_before](screenshots/lesson_course_before.png?raw=true)
 #### After
-![ScreenShot after](screenshots/after.png?raw=true)
+![ScreenShot main_after](screenshots/main_course_after.png?raw=true)
+![ScreenShot lesson_after](screenshots/lesson_course_after.png?raw=true)
 
